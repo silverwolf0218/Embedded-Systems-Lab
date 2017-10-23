@@ -1,1 +1,1 @@
-# I2C-ADXL345
+# Embedded Systems Lab
