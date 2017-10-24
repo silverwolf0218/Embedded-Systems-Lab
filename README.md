@@ -6,9 +6,7 @@ I2C
 ---
 >在`I2C`資料夾中
 >>在auduino端執行i2c-Arduino.c
-
 >>在rpi3端執行i2c-RPi3.c或i2c-RPi3.py
-
 >>等待雙方連線
 
 BLE
