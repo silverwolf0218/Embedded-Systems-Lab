@@ -1,7 +1,8 @@
 # Embedded Systems Lab, Fall 2017
 ## For Embedded Systems Labs 2017 Fall homeworks, I2C and BLE programs.
-## I2C
-### rpi與arduino連線
+## Usage
+### I2C
+#### rpi與arduino連線
 ```
 在`I2C`資料夾中
 
@@ -11,7 +12,7 @@
   
 等待雙方連線
 ```
-### 讀取ADXL345數值
+#### 讀取ADXL345數值
 ```
 在ADXL345資料夾中
 
@@ -20,8 +21,7 @@
 在終端機顯示讀取的三軸加速度值
 ```
 
-BLE
----
+###BLE
 ```
 1
 ```
