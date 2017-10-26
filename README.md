@@ -1,5 +1,5 @@
 # Embedded Systems Lab, Fall 2017
-### For Embedded Systems Labs 2017 Fall homeworks, I2C and BLE programs.
+### For Embedded Systems Labs 2017 Fall homeworks.
 ## Usage
 ### I2C
 #### RPi3與arduino連線
